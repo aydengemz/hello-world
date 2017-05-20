@@ -1,2 +1,4 @@
 # hello-world
-My first repo
+Hello world!
+
+This is made by aydengemz.
